@@ -36,6 +36,7 @@ South Ozone Park, New York
 Queens, New York, USA
 New York, New York
 Santiago, Dominican Republic
+Warsaw, Poland
 Seattle, Washington
 Gopaltila, Sylhet, Bangladesh
 Manila, Philippines
@@ -105,3 +106,5 @@ Chester Springs, PA
 Ottawa, Canada
 Phnom Penh, Cambodia
 Pyongyang, North Korea
+Ufa, Russia
+Calgary, Canada
