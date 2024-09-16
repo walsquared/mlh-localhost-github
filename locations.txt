@@ -7,6 +7,8 @@ Lincoln, Pennsylvania
 Changchun, China
 Phoenix, Arizona
 Mississauga, Canada
+Toronto, Canada
+New Delhi, India
 Lake Hiawatha, New Jersey
 Denver, Colorado
 Moscow, Russia
@@ -83,10 +85,13 @@ Streamwood, Untied States of America
 Quincy, Illinois
 Oswego, Illinois
 Maple Park, Illinois
+Brantford, Canada
+Brampton, Canada
 Elgin, Illinois
 Warrenville, IL
 Grayslake, Illinois
 Markham, Canada
+Montreal, Canada
 Beijing, China
 Tver, Russia
 Kadapa, India
